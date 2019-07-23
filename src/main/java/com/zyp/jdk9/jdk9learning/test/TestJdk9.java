@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.stream.Stream;
 
 /**
- * @author zhangyp 01385499
+ * @author zhangyp 
  */
 public class TestJdk9 {
     private static final System.Logger logger = System.getLogger("Main");
