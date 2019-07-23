@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
- * @author zhangyp 01385499
+ * @author zhangyp 
  */
 public class StreamTest {
 
